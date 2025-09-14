@@ -93,7 +93,7 @@ html {
 .starIcon {
                     height: 50px;
                     width: 50px;
-                    background-image: url(../images/icon-star.svg);
+                    background-image: url(https://andrewbizz.github.io/faqAccordion/assets/images/icon-star.svg);
                     background-position: center;
                     background-repeat: no-repeat;
 }
@@ -126,7 +126,7 @@ html {
 
 .controlSign {
                     width: 30px;
-                    background-image: url(../images/icon-plus.svg);
+                    background-image: url(https://andrewbizz.github.io/faqAccordion/assets/images/icon-plus.svg);
 
                     height: 30px;
 }
@@ -166,7 +166,7 @@ html {
 }
 
 .iconPlus {
-                    background-image: url(../images/icon-minus.svg)
+                    background-image: url(https://andrewbizz.github.io/faqAccordion/assets/images/icon-minus.svg)
 }
 
 .mainFaqBody {
@@ -182,7 +182,7 @@ html {
                     top: 0;
                     left: 0;
                     height: 300px;
-                    background-image: url(../images/background-pattern-desktop.svg);
+                    background-image: url(https://andrewbizz.github.io/faqAccordion/assets/images/background-pattern-desktop.svg);
 
                     width: 100%;
                     background-color: hsl(275, 100%, 97%);
